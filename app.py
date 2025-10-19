@@ -6,7 +6,7 @@ llm = lazyllm.OnlineChatModule(
     source="openai",
     model="deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
     base_url="https://api.siliconflow.com/v1",
-    api_key="sk-rhghnuaucvsxzjhducxtxqkffhzruswxctlqiajihvfhtjbk",
+    api_key="your api_key",
     system=SYSTEM_PROMPT
      )
 
